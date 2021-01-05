@@ -43,5 +43,42 @@
       ]
     }
   ]
+},
+  "productCatagorySync":{
+  "st": true,
+  "msg": "SUCCESS",
+  "devErrorMessage": "",
+  "msgid": "",
+  "mdafter": 1583305977377,
+  "categories": [
+    {
+      "id": "378513",
+      "displayName": "testName",
+      "parentId": "",
+      "status": "testStatus",
+      "description": "testDiscription",
+      "images": [
+        {
+          "screenType": "ISSUERICON",
+          "screenTypeCode": "200",
+          "resourceId": "20180813b9d668e1-8782-4437-b62c-e8aa916ca6fa"
+        }
+      ]
+    },
+    {
+      "id": "e277247",
+      "displayName": "Mobile",
+      "parentId": "378513",
+      "status": "testStatus",
+      "description": "testDiscription",
+      "images": [
+        {
+          "screenType": "ISSUERICON",
+          "screenTypeCode": "200",
+          "resourceId": "20180813b9d668e1-8782-4437-b62c-e8aa916ca6fa"
+        }
+      ]
+    }
+  ]
 }
 }
