@@ -17,5 +17,31 @@
       "displayName": "6 months"
     }
   ]
+},
+  "syncCountryList":{
+  "st": true,
+  "msg": "SUCCESS",
+  "devErrorMessage": "",
+  "msgid": "",
+  "mdafter": "1598471985926",
+  "countryList": [
+    {
+      "id": "3tq34t634tqg",
+      "name": "India",
+      "isoCountryCode": "AUS123",
+      "isoCountryCodeNum": "123",
+      "status": "0",
+      "parameters": "",
+      "languageCode": "EN",
+      "currencyCode": "",
+      "images": [
+        {
+          "screenType": "ISSUERICON",
+          "screenTypeCode": "200",
+          "resourceId": "20180813b9d668e1-8782-4437-b62c-e8aa916ca6fa"
+        }
+      ]
+    }
+  ]
 }
 }
