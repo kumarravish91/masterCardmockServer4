@@ -108,6 +108,24 @@
       "tag": ""
     }
   ]
+},
+  "terminalParamters":{
+  "st": true,
+  "msg": "SUCCESS",
+  "devErrorMessage": "",
+  "msgid": "",
+  "terminalParams": [
+    {
+      "id": "5fb7c2ca97ad0649a10d352e",
+      "name": "AppInfo",
+      "value": "4"
+    },
+    {
+      "id": "5fb7c2ca97ad0649a10d352e",
+      "name": "contentServerUrl",
+      "value": "http://contentserver.com/image"
+    }
+  ]
 }
   
 }
