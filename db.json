@@ -80,5 +80,34 @@
       ]
     }
   ]
+},
+  "productMasterData":{
+  "st": true,
+  "msg": "SUCCESS",
+  "devErrorMessage": "",
+  "msgid": "",
+  "productData": [
+    {
+      "productId": 1524,
+      "productName": "Samsung S4 Zoom_2",
+      "productSKU": "1524",
+      "brandId": 110,
+      "brandName": "Samsung",
+      "productcategoryid": 124,
+      "subProduct": "Samsung Mob -> S4 Zoom -> C1010 -> SM-C1010ZWAINU",
+      "tag": ""
+    },
+    {
+      "productId": 1529,
+      "productName": "Samsung F1S(A1601)_2",
+      "productSKU": "1529",
+      "brandId": 110,
+      "brandName": "Samsung",
+      "productcategoryid": 124,
+      "subProduct": "Samsung Mob -> F1S(A1601)",
+      "tag": ""
+    }
+  ]
 }
+  
 }
