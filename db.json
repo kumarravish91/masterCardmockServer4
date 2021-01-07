@@ -1,133 +1,18 @@
 {
-  "syncTenures":{
+  "activeCountryListBrand":{
   "st": true,
   "msg": "SUCCESS",
   "devErrorMessage": "",
   "msgid": "",
-  "mdafter": "1598471985926",
-  "tenures": [
+  "issuerCountryList": [
     {
-      "id": "5fb7c2ca97ad069a10d352e",
-      "tenure": "3",
-      "status": "0",
-      "displayName": "3 months"
-    },
-    {
-      "id": "5fb7c2ca97ad0649a10d352e",
-      "tenure": "6",
-      "status": "0",
-      "displayName": "6 months"
-    }
-  ]
-},
-  "syncCountryList":{
-  "st": true,
-  "msg": "SUCCESS",
-  "devErrorMessage": "",
-  "msgid": "",
-  "mdafter": "1598471985926",
-  "countryList": [
-    {
-      "id": "3tq34t634tqg",
-      "name": "India",
-      "isoCountryCode": "AUS123",
-      "isoCountryCodeNum": "123",
-      "status": "0",
-      "parameters": "",
-      "languageCode": "EN",
-      "currencyCode": "",
-      "images": [
+      "countryId": "3tq34t634tqg",
+      "brandList": [
         {
-          "screenType": "ISSUERICON",
-          "screenTypeCode": "200",
-          "resourceId": "20180813b9d668e1-8782-4437-b62c-e8aa916ca6fa"
+          "id": "23232"
         }
       ]
-    }
-  ]
-},
-  "productCatagorySync":{
-  "st": true,
-  "msg": "SUCCESS",
-  "devErrorMessage": "",
-  "msgid": "",
-  "mdafter": 1583305977377,
-  "categories": [
-    {
-      "id": "378513",
-      "displayName": "testName",
-      "parentId": "",
-      "status": "testStatus",
-      "description": "testDiscription",
-      "images": [
-        {
-          "screenType": "ISSUERICON",
-          "screenTypeCode": "200",
-          "resourceId": "20180813b9d668e1-8782-4437-b62c-e8aa916ca6fa"
-        }
-      ]
-    },
-    {
-      "id": "e277247",
-      "displayName": "Mobile",
-      "parentId": "378513",
-      "status": "testStatus",
-      "description": "testDiscription",
-      "images": [
-        {
-          "screenType": "ISSUERICON",
-          "screenTypeCode": "200",
-          "resourceId": "20180813b9d668e1-8782-4437-b62c-e8aa916ca6fa"
-        }
-      ]
-    }
-  ]
-},
-  "productMasterData":{
-  "st": true,
-  "msg": "SUCCESS",
-  "devErrorMessage": "",
-  "msgid": "",
-  "productData": [
-    {
-      "productId": 1524,
-      "productName": "Samsung S4 Zoom_2",
-      "productSKU": "1524",
-      "brandId": 110,
-      "brandName": "Samsung",
-      "productcategoryid": 124,
-      "subProduct": "Samsung Mob -> S4 Zoom -> C1010 -> SM-C1010ZWAINU",
-      "tag": ""
-    },
-    {
-      "productId": 1529,
-      "productName": "Samsung F1S(A1601)_2",
-      "productSKU": "1529",
-      "brandId": 110,
-      "brandName": "Samsung",
-      "productcategoryid": 124,
-      "subProduct": "Samsung Mob -> F1S(A1601)",
-      "tag": ""
-    }
-  ]
-},
-  "terminalParamters":{
-  "st": true,
-  "msg": "SUCCESS",
-  "devErrorMessage": "",
-  "msgid": "",
-  "terminalParams": [
-    {
-      "id": "5fb7c2ca97ad0649a10d352e",
-      "name": "AppInfo",
-      "value": "4"
-    },
-    {
-      "id": "5fb7c2ca97ad0649a10d352e",
-      "name": "contentServerUrl",
-      "value": "http://contentserver.com/image"
     }
   ]
 }
-  
 }
