@@ -20,6 +20,22 @@
       "transactionIssure": "243175",
       "transactionAmount": "4732",
       "transactionStatus": "1"
+    },,
+     {
+      "transactionId": "3487683yxngye",
+      "transactionType": "MIB Installment",
+      "transactionDateTime": "1610101800000",
+      "transactionIssure": "243175",
+      "transactionAmount": "4732",
+      "transactionStatus": "1"
+    },,
+     {
+      "transactionId": "3487683yxngye",
+      "transactionType": "MIB Installment",
+      "transactionDateTime": "1610101800000",
+      "transactionIssure": "243175",
+      "transactionAmount": "4732",
+      "transactionStatus": "0"
     }
   ]
 },
