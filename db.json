@@ -14,7 +14,8 @@
       "transactionStatus": "0"
     }
   ]
-},"sample":{
+},
+  "sample":{
   "st": true,
   "msg": "SUCCESS",
   "devErrorMessage": "",
