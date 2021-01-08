@@ -8,7 +8,7 @@
     {
       "transactionId": "3487683yxngyd",
       "transactionType": "CIB/MIBInstallment/ProductInsatllment",
-      "transactionDateTime": "242361561325",
+      "transactionDateTime": "1609670520000",
       "transactionIssure": "243175",
       "transactionAmount": "4732542",
       "transactionStatus": "0"
@@ -16,7 +16,7 @@
      {
       "transactionId": "3487683yxngye",
       "transactionType": "MIB Installment",
-      "transactionDateTime": "242361561325",
+      "transactionDateTime": "1610101800000",
       "transactionIssure": "243175",
       "transactionAmount": "4732",
       "transactionStatus": "1"
