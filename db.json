@@ -14,5 +14,20 @@
       "transactionStatus": "0"
     }
   ]
+},"sample":{
+  "st": true,
+  "msg": "SUCCESS",
+  "devErrorMessage": "",
+  "msgid": "",
+  "transationHistory": [
+    {
+      "transactionId": "3487683yxngyd",
+      "transactionType": "CIB/MIBInstallment/ProductInsatllment",
+      "transactionDateTime": "242361561325",
+      "transactionIssure": "243175",
+      "transactionAmount": "4732542",
+      "transactionStatus": "0"
+    }
+  ]
 }
 }
