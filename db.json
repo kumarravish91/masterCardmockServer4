@@ -1,24 +1,17 @@
 {
-  "activeCountryListBrand":{
+  "transactionHistory":{
   "st": true,
   "msg": "SUCCESS",
   "devErrorMessage": "",
   "msgid": "",
-  "issuerCountryList": [
+  "transationHistory": [
     {
-      "countryId": "3tq34t634tqg",
-      "brandList": [
-        {
-          "id": "5fbd544bf9dcbc6ac2e9f843"
-        }
-      ]
-    },{
-      "countryId": "3tq34t634tpg",
-      "brandList": [
-        {
-          "id": "5fbd544bf9dcbc6ac2e9f843"
-        }
-      ]
+      "transactionId": "3487683yxngyd",
+      "transactionType": "CIB/MIBInstallment/ProductInsatllment",
+      "transactionDateTime": "242361561325",
+      "transactionIssure": "243175",
+      "transactionAmount": "4732542",
+      "transactionStatus": "0"
     }
   ]
 }
