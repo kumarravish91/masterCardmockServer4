@@ -15,7 +15,7 @@
     },
     {
       "transactionId": "3487683yxngyd",
-      "transactionType": "CIB/ProductInsatllment",
+      "transactionType": "MIB/ProductInsatllment",
       "transactionDateTime": "1609497000000",
       "transactionIssure": "243175",
       "transactionAmount": "4732542",
@@ -23,7 +23,7 @@
     },
     {
       "transactionId": "3487683yxngyd",
-      "transactionType": "CIB/ProductInsatllment",
+      "transactionType": "MIB/Product Insatllment",
       "transactionDateTime": "1598956200000",
       "transactionIssure": "243175",
       "transactionAmount": "4732542",
