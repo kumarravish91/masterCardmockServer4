@@ -77,5 +77,57 @@
 ]
 
 
+},
+	 "productDetail":{
+  "st": true,
+  "msg": "SUCCESS",
+  "devErrorMessage": "",
+  "msgid": "",
+  "offerData": {
+    "productId": "5fb7c2ca97ad0649a10d352e",
+    "brandId": "5gb7c2ca97ad0649a10d352e",
+    "brandName": "test",
+    "productLine": "Samsung Mob -> Note 3 -> N9000 -> SM-N9000ZIEINU",
+    "images": [
+      {
+        "screenType": "DETAILICON_1",
+        "screenTypeCode": 300,
+        "resourceId": "201812218e1aa52c-7891-4506-b263-35aeaea8e2ef",
+        "screenType": "LISTICON",
+        "screenTypeCode": 200,
+        "resourceId": "201806064f5912f6-21b1-456a-a5f9-7c423393d1d1"
+      }
+    ],
+    "scheme": [
+      {
+        "issuerId": "5ab7c2ca97ad0649a10d352e",
+        "issuerName": "ICICI Credit",
+        "installmentConfigID": "",
+        "amountRangeDetails": [
+          {
+            "lowAmount": "",
+            "highAmount": "",
+            "paymentFormatData": [
+              {
+                "numberOfInstallments": "6 months",
+                "interestRate": "15.10",
+                "installmentFee": "",
+                "installmentFeeValue": "",
+                "distributionType": "",
+                "cashbackDetails": {
+                  "cashbackType": "",
+                  "issuerCashbackPercent": "",
+                  "issuerCashbackValue": "",
+                  "totalCashbackPercent": "",
+                  "totalCashbackValue": "",
+                  "additionalChargeSlipText": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
 }
