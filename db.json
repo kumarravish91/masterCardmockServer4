@@ -105,22 +105,22 @@
         "installmentConfigID": "",
         "amountRangeDetails": [
           {
-            "lowAmount": "",
-            "highAmount": "",
+            "lowAmount": "1000",
+            "highAmount": "8000",
             "paymentFormatData": [
               {
-                "numberOfInstallments": "6 months",
-                "interestRate": "15.10",
-                "installmentFee": "",
-                "installmentFeeValue": "",
-                "distributionType": "",
+                "numberOfInstallments": "5",
+                "interestRate": "03.11",
+                "installmentFee": "Fixed",
+                "installmentFeeValue": "1",
+                "distributionType": "First Installment",
                 "cashbackDetails": {
-                  "cashbackType": "",
-                  "issuerCashbackPercent": "",
-                  "issuerCashbackValue": "",
-                  "totalCashbackPercent": "",
-                  "totalCashbackValue": "",
-                  "additionalChargeSlipText": ""
+                  "cashbackType": "01",
+                  "issuerCashbackType": "Fixed",
+                  "issuerCashbackValue": "10",
+                  "totalCashbackType": "",
+                  "totalCashbackValue": "100",
+                  "additionalChargeSlipText": "TESTING FOR OPTIONAL FIELD"
                 }
               }
             ]
