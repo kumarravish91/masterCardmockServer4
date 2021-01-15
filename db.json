@@ -141,6 +141,49 @@
             ]
           }
         ]
+      },
+	  {
+        "issuerId": "5ab7c2ca97ad0649a10d352e",
+        "issuerName": "HDFC Debit",
+        "installmentConfigID": "",
+        "amountRangeDetails": [
+          {
+            "lowAmount": "1000",
+            "highAmount": "80000",
+            "paymentFormatData": [
+              {
+                "numberOfInstallments": "2",
+                "interestRate": "03.10",
+                "installmentFee": "Fixed",
+                "installmentFeeValue": "1",
+                "distributionType": "First Installment",
+                "cashbackDetails": {
+                  "cashbackType": "01",
+                  "issuerCashbackType": "Fixed",
+                  "issuerCashbackValue": "10",
+                  "totalCashbackType": "",
+                  "totalCashbackValue": "100",
+                  "additionalChargeSlipText": "TESTING FOR OPTIONAL FIELD"
+                }
+              },
+		     {
+                "numberOfInstallments": "3",
+                "interestRate": "03.11",
+                "installmentFee": "Fixed",
+                "installmentFeeValue": "1",
+                "distributionType": "First Installment",
+                "cashbackDetails": {
+                  "cashbackType": "01",
+                  "issuerCashbackType": "Fixed",
+                  "issuerCashbackValue": "10",
+                  "totalCashbackType": "",
+                  "totalCashbackValue": "100",
+                  "additionalChargeSlipText": "TESTING FOR OPTIONAL FIELD"
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   }
